@@ -1,46 +1,39 @@
 # unity-essentials
 
-### Projeny
-https://github.com/modesttree/projeny
-
-### Extenject
-https://github.com/svermeulen/Extenject
-
-UPM: https://github.com/starikcetin/Extenject
-
-### UniRx
-https://github.com/neuecc/UniRx
-
-UPM: https://github.com/starikcetin/UniRx
-
-### moq4
-https://github.com/moq/moq4
-
-### Nuget for Unity
-https://github.com/GlitchEnzo/NuGetForUnity
-
-### More LINQ
-https://github.com/morelinq/MoreLINQ
-
-### Scene Reference
-https://gist.github.com/JohannesMP/ec7d3f0bcf167dab3d0d3bb480e0e07b
-
-### uREPL
-https://github.com/hecomi/uREPL
-
-UPM: https://github.com/starikcetin/uREPL
-
-### Unity Git Hooks
-https://github.com/doitian/unity-git-hooks
+## with UPM
 
 ### UPM Git Extension
 https://github.com/mob-sakai/UpmGitExtension
 
+### Extenject
+https://github.com/starikcetin/Extenject
 
-## Tween
+### UniRx
+https://github.com/starikcetin/UniRx
 
-### Lean Tween
-https://assetstore.unity.com/packages/tools/animation/leantween-3595
+### uREPL
+https://github.com/starikcetin/uREPL
 
-### DO Tween
-http://dotween.demigiant.com/
+
+## with NuGet
+
+### moq4
+https://github.com/moq/moq4
+
+### More LINQ
+https://github.com/morelinq/MoreLINQ
+
+
+## Manual
+
+### Nuget for Unity
+https://github.com/GlitchEnzo/NuGetForUnity
+
+### Projeny
+https://github.com/modesttree/projeny
+
+### Scene Reference
+https://gist.github.com/JohannesMP/ec7d3f0bcf167dab3d0d3bb480e0e07b
+
+### Unity Git Hooks
+https://github.com/doitian/unity-git-hooks
