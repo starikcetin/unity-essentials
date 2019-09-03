@@ -26,6 +26,13 @@ https://gist.github.com/JohannesMP/ec7d3f0bcf167dab3d0d3bb480e0e07b
 ### uREPL
 https://github.com/hecomi/uREPL
 
+### Unity Git Hooks
+https://github.com/doitian/unity-git-hooks
+
+### UPM Git Extension
+https://github.com/mob-sakai/UpmGitExtension
+
+
 ## Tween
 
 ### Lean Tween
