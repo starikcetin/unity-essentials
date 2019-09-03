@@ -32,8 +32,5 @@ https://github.com/morelinq/MoreLINQ
 
 ## Manual
 
-### Projeny
-https://github.com/modesttree/projeny
-
 ### Unity Git Hooks
 https://github.com/doitian/unity-git-hooks
