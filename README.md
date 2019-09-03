@@ -14,6 +14,9 @@ https://github.com/starikcetin/UniRx
 ### uREPL
 https://github.com/starikcetin/uREPL
 
+### NuGet for Unity
+https://github.com/starikcetin/NuGetForUnity
+
 
 ## with NuGet
 
@@ -25,9 +28,6 @@ https://github.com/morelinq/MoreLINQ
 
 
 ## Manual
-
-### Nuget for Unity
-https://github.com/GlitchEnzo/NuGetForUnity
 
 ### Projeny
 https://github.com/modesttree/projeny
