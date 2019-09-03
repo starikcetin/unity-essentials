@@ -6,12 +6,12 @@ https://github.com/modesttree/projeny
 ### Extenject
 https://github.com/svermeulen/Extenject
 
-with UPM support: https://github.com/starikcetin/Extenject
+UPM: https://github.com/starikcetin/Extenject
 
 ### UniRx
 https://github.com/neuecc/UniRx
 
-with UPM support: https://github.com/starikcetin/UniRx
+UPM: https://github.com/starikcetin/UniRx
 
 ### moq4
 https://github.com/moq/moq4
@@ -28,7 +28,7 @@ https://gist.github.com/JohannesMP/ec7d3f0bcf167dab3d0d3bb480e0e07b
 ### uREPL
 https://github.com/hecomi/uREPL
 
-with UPM support: https://github.com/starikcetin/uREPL
+UPM: https://github.com/starikcetin/uREPL
 
 ### Unity Git Hooks
 https://github.com/doitian/unity-git-hooks
