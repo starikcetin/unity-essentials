@@ -17,6 +17,9 @@ https://github.com/starikcetin/uREPL
 ### NuGet for Unity
 https://github.com/starikcetin/NuGetForUnity
 
+### Scene Reference
+https://github.com/starikcetin/unity-scene-reference
+
 
 ## with NuGet
 
@@ -31,9 +34,6 @@ https://github.com/morelinq/MoreLINQ
 
 ### Projeny
 https://github.com/modesttree/projeny
-
-### Scene Reference
-https://gist.github.com/JohannesMP/ec7d3f0bcf167dab3d0d3bb480e0e07b
 
 ### Unity Git Hooks
 https://github.com/doitian/unity-git-hooks
