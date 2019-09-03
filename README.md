@@ -3,12 +3,10 @@
 ### Projeny
 https://github.com/modesttree/projeny
 
-### Zenject / Extenject
-Zenject: https://github.com/modesttree/Zenject
+### Extenject
+https://github.com/svermeulen/Extenject
 
-Extenject: https://github.com/svermeulen/Extenject
-
-Extenject with UPM support: https://github.com/starikcetin/Extenject
+with UPM support: https://github.com/starikcetin/Extenject
 
 ### UniRx
 https://github.com/neuecc/UniRx
