@@ -20,6 +20,9 @@ https://github.com/starikcetin/NuGetForUnity
 ### Scene Reference
 https://github.com/starikcetin/unity-scene-reference
 
+### Serializable Dictionary
+https://github.com/starikcetin/Unity-SerializableDictionary
+
 
 ## with NuGet
 
