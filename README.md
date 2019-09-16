@@ -23,6 +23,9 @@ https://github.com/starikcetin/unity-scene-reference
 ### Serializable Dictionary
 https://github.com/starikcetin/Unity-SerializableDictionary
 
+### Constants Generator
+https://github.com/starikcetin/unity-constants-generator
+
 
 ## with NuGet
 
