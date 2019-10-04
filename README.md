@@ -29,6 +29,9 @@ https://github.com/starikcetin/unity-constants-generator
 ### Eflatun.UnityCommon
 https://github.com/starikcetin/Eflatun.UnityCommon
 
+### NaughtyAttributes
+https://github.com/JimmyCushnie/NaughtyAttributes
+
 
 ## with NuGet
 
