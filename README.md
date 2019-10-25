@@ -2,6 +2,9 @@
 
 ## with UPM
 
+### Git Dependency Resolver for Unity
+https://github.com/mob-sakai/GitDependencyResolverForUnity
+
 ### UPM Git Extension
 https://github.com/mob-sakai/UpmGitExtension
 
