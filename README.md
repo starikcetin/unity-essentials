@@ -29,8 +29,8 @@ https://github.com/starikcetin/Unity-SerializableDictionary
 ### Constants Generator
 https://github.com/starikcetin/unity-constants-generator
 
-### Eflatun.UnityCommon
-https://github.com/starikcetin/Eflatun.UnityCommon
+### Eflatun Libraries
+https://github.com/starikcetin/Eflatun
 
 ### NaughtyAttributes
 https://github.com/JimmyCushnie/NaughtyAttributes
