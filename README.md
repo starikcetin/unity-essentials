@@ -48,4 +48,4 @@ https://github.com/morelinq/MoreLINQ
 ## Manual
 
 ### Unity Git Hooks
-https://github.com/starikcetin/unity-git-hooks
+https://github.com/doitian/unity-git-hooks
